@@ -1,0 +1,17 @@
+<view class="content data-v-723b7266">
+  <block wx:if="{{!changeSuccess}}">
+    <view class="data-v-723b7266 recharge-container">
+      <text class="title">请在此输入充值金额：</text>
+      <view class="uni-form-item uni-column data-v-723b7266">
+  <input class="uni-input data-v-723b7266" data-event-opts="{{[['input',[['__set_model',['','newMoney','$event',[]]]]]]}}" value="{{newMoney}}" bindinput="__e" />
+      </view>
+      <button data-event-opts="{{[['tap',[['onResetPass',['$event']]]]]}}" bindtap="__e" class="submit-button">提交</button>
+    </view>
+  </block>
+  <block wx:if="{{changeSuccess}}">
+    <view class="data-v-723b7266 success-message">
+      <text class="success-text">充值成功！</text>
+      <button data-event-opts="{{[['tap',[['back',['$event']]]]]}}" bindtap="__e" class="return-button">返回</button>
+    </view>
+  </block>
+</view>

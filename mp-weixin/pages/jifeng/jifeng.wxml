@@ -1,0 +1,4 @@
+<!--pages/jifeng/jifeng.wxml-->
+<view>
+<text style="position: fixed; font-size: 25px;left:8%;top: 5%;">仍在开发中，敬请期待！</text>
+</view>

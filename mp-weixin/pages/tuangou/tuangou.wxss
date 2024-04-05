@@ -1,0 +1,65 @@
+.container {
+  display: flex;
+  width: 115rpx;
+  height: 43px;
+  left: 0;
+  flex-direction: column;
+  border-right: 2px solid #bebbbc;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.iconfont {
+  position: relative;
+  height: 20px;
+
+}
+
+.host {
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 50px;
+  height: inherit;
+  font-size: 30rpx;
+}
+
+.footer {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 101rpx;
+  line-height: 100rpx;
+  border-top: 1px solid #bebbbc;
+  align-items: center;
+  padding-left: 5rpx;
+}
+
+.shopping {
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 50px;
+  height: inherit;
+  font-size: 30rpx;
+
+}
+
+.btnorder {
+  width: 50%;
+  text-align: center;
+  border-left: 1px soild #ccc;
+  background-color: #406a8b;
+  height: 100%;
+}
+
+.total {
+  width: 50%;
+  text-align: center;
+  border-left: 1px soild #bebbbc;
+  background-color: #88b3d3;
+  height: 100%;
+}

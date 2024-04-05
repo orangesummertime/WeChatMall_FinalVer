@@ -1,0 +1,15 @@
+	<view class="tuango">
+		<view class="connection" style="font-size: 15px;">
+			联系方式:
+		</view>
+		<image src="{{imgUrl}}"></image>
+		<view class="warning" style="margin-top: -5%;">
+    <text style="font-size: 15px;font-weight:400;font-family:Noto Sans;">
+    如果您还未加入我们的会员\n
+    请扫描上方二维码添加</text></view>
+	</view>
+ 
+
+ 
+
+ 

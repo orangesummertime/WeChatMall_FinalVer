@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#406a8b",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "焊割精工",
+  "usingComponents": {
+    "uni-icons": "/components/uni-ui/lib/uni-icons/uni-icons"
+  }
+}

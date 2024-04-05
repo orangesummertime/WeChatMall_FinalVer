@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#406a8b",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "商品盘点添加/修改",
+  "usingComponents": {
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}
